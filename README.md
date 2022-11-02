@@ -11,7 +11,10 @@ Bu repo [Kodluyoruz](https://kodluyoruz.org) Frond-End Eğitiminde oluşturduğu
 
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
 
-` git clone https://github.com/juniorphilosopher/kodluyoruzilkrepo.git                                                                                                                                                                                                                                                                            `
+ ```
+ git clone https://github.com/juniorphilosopher/kodluyoruzilkrepo.git 
+
+ ```                                                                                                                                                                                                                                                                        
 
 ## Usage
 
